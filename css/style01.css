@@ -1,0 +1,122 @@
+
+a {
+text-decoration: none;
+color: whitesmoke;
+text-shadow: 2px 2px 5px  rgb(0, 0, 0);
+}
+        .container {
+            margin-top: 2px;
+            margin-bottom: 2px;
+            width: 100%;
+        }
+
+
+        .dropdown {
+            margin-left: -5px;
+            margin-top: 2px;
+            margin-bottom: 2px;
+        }
+
+        .btn {
+            background-color: rgba(211, 211, 211, 0.329);
+            color: black;
+            border-color: rgba(0, 0, 0, 0.212);
+
+        }
+
+
+        .clearfix img {
+            width: 30%;
+            border-radius: 0px 0px 150px 0px;
+        }
+
+        .sub {
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+            padding: 10px;
+            
+        }
+
+        .sub1 {
+            text-align: center;
+            font-weight: bold;
+            font-size: 100px;
+            width: 100%;
+            text-decoration: none;
+color: whitesmoke;
+text-shadow: 2px 2px 5px  rgb(0, 0, 0);
+        }
+
+        .sub2 {
+            text-align: center;
+            font-weight: bold;
+            font-size: 60px;
+            text-decoration: none;
+color: whitesmoke;
+text-shadow: 2px 2px 5px  rgb(0, 0, 0);
+        }
+
+        .sub3 {
+            text-align: center;
+            font-size: 22px;
+            text-decoration: underline;
+            text-decoration: none;
+color: rgb(243, 0, 0);
+text-shadow: 2px 2px 5px  rgb(0, 0, 0);
+        }
+
+        .sub4 {
+            text-align: center;
+            font-size: 28px;
+            text-decoration: none;
+color: rgb(255, 255, 255);
+text-shadow: 4px 4px 8px 1px  rgb(0, 0, 0);
+
+        }
+
+        .sub5 {
+            font-size: 30px;
+            width: 100%;
+        }
+
+        .paragraph {
+            text-align: justify;
+            font-size: 20px;
+        }
+
+        .container {
+            border: 1px solid rgba(0, 0, 0, 0.171);
+            padding-bottom: 5px;
+            background-color: #f8f8f8f8;
+        }
+
+       .container img {
+            width: 15%;
+            padding: 30px;
+          
+        }
+.card-img-top {
+display: flex;
+}
+ 
+        .card {
+            margin: auto;
+            padding: 0%;
+            border: 0;
+            background-color: #f8f8f8f8;
+
+        }
+
+        footer {
+            background-color: lightgrey;
+            width: 100%;
+            margin: auto;
+            text-align: center;
+            padding: 5px;
+        }
+    body {
+    background-color:rgba(0, 0, 0, 0.219);
+    }
+
+   
